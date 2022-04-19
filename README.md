@@ -2,4 +2,10 @@
 <h1>WS101 - Website Output</h1>
 <blockquote>HTML, CSS, JS (SY 2021 - 2022)</blockquote>
 <h1>Student List</h1>
+<h3>IT-3A</h3>
+
+<ul>
+  <li>LASTNAME, FIRSTNAME - <a href="#">Link to Website</a></li>
+</ul>
+<h3>IT-3B</h3>
 <h1>Acknowledgement</h1>

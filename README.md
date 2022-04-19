@@ -1,2 +1,4 @@
-# WS101_2022
-A list of web output from students of WS101(2022)
+<h1>WS101 - Website Output</h1>
+<blockquote>HTML, CSS, JS - Year 2022</blockquote>
+<h1>Student List</h1>
+<h1>Acknowledgement</h1>

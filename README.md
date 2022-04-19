@@ -8,5 +8,11 @@
 <ul>
   <li>LASTNAME, FIRSTNAME - <a href="#">Link to Website</a></li>
 </ul>
+
 <h3>IT-3B</h3>
+
+<ul>
+  <li>LASTNAME, FIRSTNAME - <a href="#">Link to Website</a></li>
+</ul>
+
 <h1>Acknowledgement</h1>

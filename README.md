@@ -45,5 +45,3 @@
   <li>Kenneth Anthony A. Bartolo - <a target="_new" href="https://Bartolo.kennethskie07.repl.co">https://Bartolo.kennethskie07.repl.co</a></li>
   <li>Japhet Jules P. Canja - <a target="_new" href="https://MyWebsite.canjajaphet.repl.co">https://MyWebsite.canjajaphet.repl.co</a></li>
 </ul>
-
-<h1>Acknowledgement</h1>

@@ -6,13 +6,15 @@
 <h3>IT-3A</h3>
 
 <ul>
-  <li>LASTNAME, FIRSTNAME - <a href="#">Link to Website</a></li>
+  <li>Christine Marie C. Cabañal - <a href="https://mywebsite.christine-cabanal.repl.co">https://mywebsite.christine-cabanal.repl.co</a></li>
+  <li>Paul Adrian L. Subaldo - <a href="https://WebsiteOutput.subaldopaul.repl.co">https://WebsiteOutput.subaldopaul.repl.co</a></li>
+  <li>Ma. Rofelie M. Mabitasan - <a href="https://MyWebsite-Mabitasan.mabitasanrofelie.repl.co">https://MyWebsite-Mabitasan.mabitasanrofelie.repl.co</a></li>
 </ul>
 
 <h3>IT-3B</h3>
 
 <ul>
-  <li>LASTNAME, FIRSTNAME - <a href="#">Link to Website</a></li>
+  <li>June Carlo N. Del Rosario - <a href="https://FinalOutput.syntaxerror012.repl.co">https://FinalOutput.syntaxerror012.repl.co</a></li>
 </ul>
 
 <h1>Acknowledgement</h1>

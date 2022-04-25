@@ -41,7 +41,7 @@
   <li>Monica A. Conche - <a target="_new" href="https://FinalOutput.monicaconche.repl.co">https://FinalOutput.monicaconche.repl.co</a></li>
   <li>Hubert D. Colderos - <a target="_new" href="https://mywebsitecolderoshubertdbsit3b-3.yuuuuuuuubhert03.repl.co/">https://mywebsitecolderoshubertdbsit3b-3.yuuuuuuuubhert03.repl.co/</a></li>
   <li>Anjaneth Jane Tobola Andrada - <a target="_new" href="https://andrada-anjaneth-jane.andradaanjaneth.repl.co/">https://andrada-anjaneth-jane.andradaanjaneth.repl.co/</a></li>
-  <li>LJ VINCENT E. MADRELEJOS - <a target="_new" href="https://Madrelejos.ljvincentvincen.repl.co">https://Madrelejos.ljvincentvincen.repl.co</a></li>
+  <li>Lj Vincent E. Madrelejos - <a target="_new" href="https://Madrelejos.ljvincentvincen.repl.co">https://Madrelejos.ljvincentvincen.repl.co</a></li>
   <li>Kenneth Anthony A. Bartolo - <a target="_new" href="https://Bartolo.kennethskie07.repl.co">https://Bartolo.kennethskie07.repl.co</a></li>
   <li>Japhet Jules P. Canja - <a target="_new" href="https://MyWebsite.canjajaphet.repl.co">https://MyWebsite.canjajaphet.repl.co</a></li>
 </ul>

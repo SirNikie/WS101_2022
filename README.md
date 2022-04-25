@@ -12,6 +12,10 @@
   </li>
   <li>Sheilamae C. Villaflor - <a target="_new" href="https://finaloutput.sheilamaevillaf.repl.co/">https://finaloutput.sheilamaevillaf.repl.co/</a></li>
   <li>Tristan H. Ibale - <a target="_new" href="https://Tristan-Ibale-WS-Website-link.itrisstan.repl.co">https://Tristan-Ibale-WS-Website-link.itrisstan.repl.co</a></li>
+  <li>Vanessa Anne B. Regoniel - <a target="_new" href="https://MY-WEBSITE.vanessaregoniel.repl.co">https://MY-WEBSITE.vanessaregoniel.repl.co</a></li>
+  <li>Cris Angelo Marcelino - <a target="_new" href="https://Final-Output.marcelinocris.repl.co">https://Final-Output.marcelinocris.repl.co</a></li>
+  <li>Andrea Grace A. Jungco - <a target="_new" href="https://jungcoandreagracefinalwebsite.andreagracej.repl.co/">https://jungcoandreagracefinalwebsite.andreagracej.repl.co/</a></li>
+  <li>Halili Joy R. Palermo - <a target="_new" href="https://palermo-halili-joy-r.palermohalili.repl.co/">https://palermo-halili-joy-r.palermohalili.repl.co/</a></li>
 </ul>
 
 <h3>IT-3B</h3>
@@ -23,6 +27,8 @@
   <li>Emman Gilua Alejo  - <a target="_new" href="https://finaloutput.emman12.repl.co/">https://finaloutput.emman12.repl.co/</a></li>
   <li>Trisha C. Peñero  - <a target="_new" href="https://FinalWebsite.trishapenero.repl.co">https://FinalWebsite.trishapenero.repl.co</a></li>
   <li>Mel Bryan Importante  - <a target="_new" href="https://ws101.importantemel.repl.co/">https://ws101.importantemel.repl.co/</a></li>
+  <li>Monica A. Conche  - <a target="_new" href="https://FinalOutput.monicaconche.repl.co">https://FinalOutput.monicaconche.repl.co</a></li>
+  <li>Hubert D. Colderos  - <a target="_new" href="https://mywebsitecolderoshubertdbsit3b-3.yuuuuuuuubhert03.repl.co/">https://mywebsitecolderoshubertdbsit3b-3.yuuuuuuuubhert03.repl.co/</a></li>
 </ul>
 
 <h1>Acknowledgement</h1>
